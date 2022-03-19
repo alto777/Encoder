@@ -10,7 +10,7 @@ I forked this to play with it. So far in my searches and researches, it is the o
 
 # How it works
 
-Again, totally John-Lluch's example, only this one compiles, works and demonstrates the original and my added feature
+Again, totally John-Lluch's example, only this one ~~compiles~~ will be fixed to compile and fully demonstrate the original and my added feature, at the expense of involving Serial.begin &c.
 
 ```
 // define the input pins
