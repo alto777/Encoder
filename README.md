@@ -1,6 +1,8 @@
 # Encoder
 
-A lighweight, simple to use Library for common Arduino Rotary Encoders with pushbutton. With "one more thing" added by alto777
+FORK IN PROGRESS, NOT READY FOR PRIME TIME.
+
+A lighweight, simple to use Library for common Arduino Rotary Encoders with pushbutton. With "one more thing" ~~added~~ to be added by alto777
 
 Please read all the documetation from where this was forked. John-Lluch has nailed this down good and explains it.
 
